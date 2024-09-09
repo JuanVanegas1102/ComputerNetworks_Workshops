@@ -1,0 +1,1 @@
+To make the website created for this workshop display properly, please download the Images folder.
